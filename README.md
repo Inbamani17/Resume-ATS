@@ -49,3 +49,6 @@ The Resume Analysis Application is a powerful tool designed to assist job seeker
 
    ```bash
    git clone https://github.com/your-username/resume-analysis.git
+
+**To Run the App**:
+streamlit run app.py
